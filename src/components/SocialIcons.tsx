@@ -70,7 +70,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.linkedin.com/in/aryansahu/"
+            href="https://www.linkedin.com/in/aryan-sahu-328642357/"
             target="_blank"
             rel="noreferrer"
           >
@@ -79,7 +79,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.youtube.com/@Leftbraincoder"
+            href="https://www.youtube.com"
             target="_blank"
             rel="noreferrer"
           >
