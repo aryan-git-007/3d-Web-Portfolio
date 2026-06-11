@@ -4,6 +4,13 @@ import WorkImage from "./WorkImage";
 import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
+    {
+    title: "GlucoSense",
+    category: "AI-Powered Diabetes Risk Predictor🚀",
+    tools: "Sklearn ,Pandas ,Plotly, Streamlit",
+    image: "/images/Gluco.png",
+    link: "https://glucosense-knc.streamlit.app/",
+  },
   {
     title: "Vibely",
     category: "A Vibe Sharing Platform",
